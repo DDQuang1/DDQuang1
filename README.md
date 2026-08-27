@@ -1,16 +1,15 @@
-## Hi there 👋
+# ĐÀO ĐĂNG QUANG
 
-<!--
-**DDQuang1/DDQuang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 Welcome! You were looking for this.
 
-Here are some ideas to get you started:
+- 🎓 **Name:** Đào Đăng Quang
+- 🎂 **DOB:** 04/09/2005 (From Hà Nội, Vietnam)
+- 📚 **Education:** Computer Science @ Hanoi University of Civil Engineering (HUCE)
+- 💼 **Role:** Intern Backend & AI Engineer
+- 📧 **Gmail:** dangquangdaphuc0904@gmail.com
+- 🐙 **GitHub:** [DDQuang1](https://github.com/DDQuang1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+⭐ Feel free to explore my repositories and reach out if you'd like to collaborate!
